@@ -4,7 +4,7 @@
 
 ## Features
 
-- **🚀 Next.js**: Fast, server-side rendering.
+- **🚀 Next.js**: Server Actions.
 - **🔤 TypeScript**: Type safety and robustness.
 - **✨ Framer Motion**: Smooth animations.
 - **📺 Anime List**: Curated classic series.
